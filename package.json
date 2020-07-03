@@ -1,0 +1,23 @@
+{
+  "name": "webpack-exports-info-bug",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "build": "webpack-cli"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/vankop/webpack-exports-info-bug.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/vankop/webpack-exports-info-bug/issues"
+  },
+  "homepage": "https://github.com/vankop/webpack-exports-info-bug#readme",
+  "dependencies": {
+    "webpack": "^5.0.0-beta.20",
+    "webpack-cli": "^3.3.12"
+  }
+}
